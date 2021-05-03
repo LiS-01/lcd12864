@@ -28,7 +28,7 @@
 #define ENTRY_MODE_SET	0x04
 	#define  S          0x01		// 
 	#define ID          0x02		// движение курсора слева на право
-#define RETURN_HOME    	0x02	// положение курсора в начало
+#define RETURN_HOME    	0x02	// положение курсора в начало 
 #define CLEAR	    	0x01	// очистка экрана
 
 //my tests
