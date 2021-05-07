@@ -1,2 +1,2 @@
-# lcd12864
-my 2021 no.1 headacke
+# Intefracing ATMega16 MCU with 128x64 dot LCD in graphical mode.
+LCD uses **ST7920** display controller. 
